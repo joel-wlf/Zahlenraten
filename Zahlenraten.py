@@ -2,6 +2,8 @@ import random
 
 gesint = random.randint(1, 100)
 
+//functions
+
 def leicht():
   aktiv = 0
   while aktiv < 7:
