@@ -32,7 +32,7 @@ def schwer():
       aktiv = 0
       break
 gew = "nein"
-print("Hallo, ich habe mir eine Zahl ausgedacht und du musst sie erraten.\nMöchtest du den leichten Modus, oder den schweren? ")
+print("Hallo, ich habe mir eine Zahl ausgedacht und du musst sie teilweise erraten.\nMöchtest du den leichten Modus, oder den schweren? ")
 modus = input()
 if modus == "leicht":
   leicht()
