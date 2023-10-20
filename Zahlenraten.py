@@ -2,7 +2,7 @@ import random
 
 gesint = random.randint(1, 100)
 
-//functions gettin defined
+#functions gettin defined
 
 def leicht():
   aktiv = 0
